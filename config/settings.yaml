@@ -1,0 +1,16 @@
+screen:
+  width: 1280
+  height: 720
+
+colors:
+  background: [22, 22, 22]
+  title: [255, 215, 0]
+  button: [70, 130, 180]
+
+fonts:
+  title: "assets/fonts/BebasNeue-Regular.ttf"
+  button: "assets/fonts/Roboto-Medium.ttf"
+
+welcome:
+  title_size: 82
+  button_size: 32
